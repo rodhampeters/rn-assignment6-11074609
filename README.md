@@ -40,9 +40,9 @@ View Cart: Navigate to the CartScreen to view the selected items in the cart.
 Remove from Cart: Click on the "Remove from cart" button to remove a product from the cart.
 Screenshots
 Home Screen
-![](homescreen.jpeg)
+![](./rnAssignment6/homescreen.jpeg)
 Cart Screen
-![](cartscreen.jpeg)
+![](./rnAssignment6/cartscreen.jpeg)
 Contributing
 Fork the repository
 Create a new branch: git checkout -b my-new-feature
